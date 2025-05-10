@@ -1,6 +1,5 @@
 # Desafio de Projeto
 
-=======
 # Objetivo:
 Novo repositorio, clonagem de ambos contribuintes 
 
